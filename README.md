@@ -15,10 +15,10 @@
 - :zap: I love math, Statistics and resarching for new ideas by reading books.
 - 🌱 I’m addicted to learning and growing every day
 - 📫 How to find me: 
-  - :office: [LinkedIn]([https://www.linkedin.com/in/khuyen-tran-1ab926151/](https://www.linkedin.com/in/idris-adebisi-0275a9164/))
+  - :office: [LinkedIn]([https://www.linkedin.com/in/idris-adebisi-0275a9164/](https://www.linkedin.com/in/idris-adebisi-0275a9164/))
 
 
-[![Khuyen's github stats](https://github-readme-stats.vercel.app/api?username=hardeybisey&count_private=true&show_icons=true&theme=radical&hide_rank=false)](https://github.com/anuraghazra/github-readme-stats)
+[![Khuyen's github stats](https://github-readme-stats.vercel.app/api?username=hardeybisey&count_private=true&show_icons=true&theme=radical&hide_rank=false)](https://github.com/hardeybisey/github-readme-stats)
 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hardeybisey)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hardeybisey)](https://github.com/hardeybisey/github-readme-stats)
