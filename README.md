@@ -12,7 +12,7 @@
 
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: ...
-- :zap: I love math, programming, data science, and books
+- :zap: I love math, Statistics and resarching for new ideas by reading books.
 - 🌱 I’m addicted to learning and growing every day
 - 📫 How to find me: 
   - :office: [LinkedIn]([https://www.linkedin.com/in/khuyen-tran-1ab926151/](https://www.linkedin.com/in/idris-adebisi-0275a9164/))
