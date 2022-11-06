@@ -5,9 +5,9 @@
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
 - 📫 How to reach me: ...
--->
 
-- 🌱 I’m currently learning Java language and preparing for my AWS Cloud certification
+
+- 🌱 I’m currently learning Java language and preparing for my AWS Cloud certification -->
 - 👯 I’m looking to collaborate on Data Science Projects
 
 - 😄 Pronouns: He/Him
