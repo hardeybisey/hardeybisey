@@ -4,9 +4,8 @@
 - 💬 Ask me about ...
 - 📫 How to reach me: ...
 - 🌱 I’m currently learning Java language and preparing for my AWS Cloud certification -->
-
+# - 👋 Hi, I am Idris.
 - 👯 I’m looking to collaborate on Data Science Projects.
-- 👋 Hi, I am Idris.
 - 😄 Pronouns: He/Him.
 - ⚡ Fun fact: ...
 - :zap: I love Mathematics, Statistics and resarching for new ideas by reading books.
