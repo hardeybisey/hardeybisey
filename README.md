@@ -4,7 +4,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Data Scientist
 --------------
 
-A detail-oriented Data Scientist with interest in Machine Learning and Artificial Intelligence.
+A detail-oriented Data Engineer with interest in Machine Learning and Artificial Intelligence.
 
 *   🌍  I'm based in Coventry, UK
 *   ✉️  You can contact me at [idris.adebisi@yahoo.com](mailto:idris.adebisi@yahoo.com)
