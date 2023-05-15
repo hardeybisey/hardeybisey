@@ -9,7 +9,6 @@ A detail-oriented Data Engineer with interest in Machine Learning and Artificial
 *   ✉️  You can contact me at [idris.adebisi@yahoo.com](mailto:idris.adebisi@yahoo.com)
 *   🤝  I'm open to collaborating on Machine Learning and AI Projects.
 
-<a href="https://www.github.com/hardeybisey" target="_blank" rel="noreferrer"><img
 ### Skills
 
 <p align="left">
