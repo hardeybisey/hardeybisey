@@ -10,7 +10,6 @@ A detail-oriented Data Engineer with interest in Machine Learning and Artificial
 *   🤝  I'm open to collaborating on Machine Learning and AI Projects.
 
 <a href="https://www.github.com/hardeybisey" target="_blank" rel="noreferrer"><img
-src="https://img.shields.io/github/followers/hardeybisey?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a>
 ### Skills
 
 <p align="left">
